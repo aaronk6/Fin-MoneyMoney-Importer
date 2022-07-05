@@ -19,5 +19,5 @@ Date,Name,Category,Amount,Source Currency,Target Currency,Conversion Rate,Latitu
 
 When the extension is correctly installed and recognized, a new entry should appear in the import dialog:
 
-<img src="screenshot.png" width="658" height="368">
+<img src="screenshot.png" width="329" height="184">
 
